@@ -25,5 +25,5 @@
 
 Si tienes alguna propuesta, idea o simplemente quieres saludar, ¡no dudes en escribirme!  
 
-- **LinkedIn**: www.linkedin.com/in/estephany-vázquez-71ab52253(#)  
-- **Email**: estephanysvg@gmail.com(#)
+- **LinkedIn**: www.linkedin.com/in/estephany-vázquez-71ab52253
+- **Email**: estephanysvg@gmail.com
