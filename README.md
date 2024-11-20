@@ -5,13 +5,17 @@
 # 🚀 Habilidades y Tecnologías
 
 ### 💻 Desarrollo Frontend
+
 - HTML, CSS, SASS y JavaScript
+- Tailwind CSS y Bootstrap
 - Frameworks: Angular y React
 - Web Components con **StencilJS**
+- Animaciones con GSAP 💚
 - Librerías 3D: **Three.js**
-- Storybook
+- Storybook  🌟
 
 ### 🖌️ Diseño
+
 - UI/UX Design
 - Herramientas: Figma
 
