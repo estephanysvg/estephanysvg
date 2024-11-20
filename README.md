@@ -1,6 +1,6 @@
 ## Hola, soy Estephany Vázquez! 😎
 
-![image](https://github.com/user-attachments/assets/ca4766cc-a3d5-47cc-ae1c-cd1bad36d381)
+<img src="https://github.com/user-attachments/assets/ca4766cc-a3d5-47cc-ae1c-cd1bad36d381" style="width: 100%;">
 
 # 🚀 Habilidades y Tecnologías
 
@@ -15,7 +15,7 @@
 - UI/UX Design
 - Herramientas: Figma
 
-## 📚 Actualmente Aprendiendo
+## 📚 Actualmente aprendiendo
 
 - **Three.js**: Estudiante de Three.js Journey by Bruno Simon.
 - **React**: Construcción de interfaces dinámicas con componentes reutilizables.
